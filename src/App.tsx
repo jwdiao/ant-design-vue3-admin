@@ -3,7 +3,7 @@ import enUS from 'ant-design-vue/es/locale/en_US';
 import zhCN from 'ant-design-vue/es/locale/zh_CN';
 import { useI18n } from 'vue-i18n';
 import './App.less';
-
+// test
 export default defineComponent({
   name: 'App',
   setup() {
